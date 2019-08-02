@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cfc36fd8db433300b793da75ca9619bb" sys_domain="global" table="x_380807_needit_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-31 05:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83c36fd8db433300b793da75ca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_380807_needit_table" name="x_380807_needit_table" sys_domain="global" view="76c36fd8db433300b793da75ca9619b6">cfc36fd8db433300b793da75ca9619bb</sys_ui_form>
+            <sys_ui_section caption="Nexgen Global Products" display_value="Nexgen Global Products" name="x_380807_needit_table" sys_domain="global" view="76c36fd8db433300b793da75ca9619b6">0fc36fd8db433300b793da75ca9619b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-31 05:09:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-31 05:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fc36fd8db433300b793da75ca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_380807_needit_table" name="x_380807_needit_table" sys_domain="global" view="76c36fd8db433300b793da75ca9619b6">cfc36fd8db433300b793da75ca9619bb</sys_ui_form>
+            <sys_ui_section caption="Attach here" display_value="Attach here" name="x_380807_needit_table" sys_domain="global" view="76c36fd8db433300b793da75ca9619b6">8bc36fd8db433300b793da75ca9619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-31 05:09:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-31 05:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fc3afd8db433300b793da75ca961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_380807_needit_table" name="x_380807_needit_table" sys_domain="global" view="76c36fd8db433300b793da75ca9619b6">cfc36fd8db433300b793da75ca9619bb</sys_ui_form>
+            <sys_ui_section caption="Know More..." display_value="Know More..." name="x_380807_needit_table" sys_domain="global" view="76c36fd8db433300b793da75ca9619b6">83c36fd8db433300b793da75ca9619bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-31 05:09:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_380807_needit_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-31 05:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfc36fd8db433300b793da75ca9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_380807_needit_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_380807_needit">53abcafedbba3300b793da75ca96194d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">53abcafedbba3300b793da75ca96194d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cfc36fd8db433300b793da75ca9619bb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-31 05:09:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Nexgen Design View" name="Nexgen_Design_View">76c36fd8db433300b793da75ca9619b6</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

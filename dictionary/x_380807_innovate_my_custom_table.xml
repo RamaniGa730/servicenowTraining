@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="Innovate table" max_length="40" name="x_380807_innovate_my_custom_table" type="collection">
+        <element label="testTF" max_length="1024" name="x_380807_needit_testtf" type="boolean"/>
+        <element choice="3" label="testTF1" max_length="40" name="x_380807_needit_testtf1" type="boolean">
+            <choice/>
+        </element>
+    </element>
+</database>
